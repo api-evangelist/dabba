@@ -1,8 +1,26 @@
 aid: dabba
 name: Dabba
-description: 'Dabba is a company surfaced as a portfolio company of multicoin-capital and added to the
-  API Evangelist network as a stub for enrichment. Sector: crypto-web3. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Dabba (Wifi Dabba) is a Web3-powered decentralized physical infrastructure
+  network (DePIN) that brings affordable internet connectivity to emerging markets,
+  starting in India. It deploys low-cost Dabba Lite WiFi hotspots through a network
+  of local cable operators (LCOs) and rewards hotspot owners, location owners, backhaul
+  providers, and hardware manufacturers with DBT tokens as data is consumed. Network
+  activity — NFTs, subscriber revenue, and bandwidth usage — is reported onchain, and
+  the token flows through a mint, buyback, and burn model. Surfaced as a Multicoin
+  Capital portfolio company; profiled here from public developer, documentation, and
+  onchain surfaces.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://dabba.com/dabba-meta.jpg
 url: https://raw.githubusercontent.com/api-evangelist/dabba/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +30,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Crypto Web3
+- DePIN
+- Wireless
+- Connectivity
+- Blockchain
+- Solana
+- Tokens
+- Emerging Markets
+- India
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +49,34 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/dabba-domain-security.yml
 - type: Website
   url: https://dabba.com
+- type: Documentation
+  url: https://gitbook.dabba.network/
+- type: Blog
+  url: https://blog.dabba.com/
+- type: BlogRSS
+  url: https://blog.dabba.com/rss.xml
+- type: Support
+  url: https://discord.gg/dabbanetwork
+- type: GitHubOrganization
+  url: https://github.com/wifidabba
+- type: Pricing
+  url: https://en.dabba.com/buy
+- type: SignUp
+  url: https://en.dabba.com/buy
+- type: TermsOfService
+  url: https://en.dabba.com/buy/terms
+- type: PrivacyPolicy
+  url: https://en.dabba.com/privacy
+- type: Explorer
+  url: https://explorer.dabba.network/
+- type: LLMsTxt
+  url: llms/dabba-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

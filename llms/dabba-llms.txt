@@ -1,0 +1,35 @@
+# Dabba.network V2
+
+## Dabba.network V2
+
+- [Executive summary](https://gitbook.dabba.network/executive-summary.md): What is the Dabba network and the Dabba token ?
+- [How it works](https://gitbook.dabba.network/how-it-works.md): Decentralised market place for WiFi connectivity in India
+- [Why it works](https://gitbook.dabba.network/why-it-works.md): Aggregating a fragmented market into a platform is a tried and tested strategy in the web2 world by Uber, AirBnB, Doordash and many others
+- [Mint, Buyback & Burn](https://gitbook.dabba.network/mint-buyback-and-burn.md): Understanding how Dabba tokens move through the Dabba network
+- [Current Network Metrics](https://gitbook.dabba.network/mint-buyback-and-burn/current-network-metrics.md)
+- [Path to Net Deflation](https://gitbook.dabba.network/mint-buyback-and-burn/current-network-metrics/path-to-net-deflation.md)
+- [Token allocation & supply](https://gitbook.dabba.network/token-allocation-and-supply.md)
+- [Earning DBT](https://gitbook.dabba.network/earning-dbt.md)
+- [Hotspot owner](https://gitbook.dabba.network/earning-dbt/hotspot-owner.md)
+- [LCO Reward Specification](https://gitbook.dabba.network/earning-dbt/lco-reward-specification.md)
+- [Location owner](https://gitbook.dabba.network/earning-dbt/location-owner.md): Stakeholder who provides physical location access
+- [Backhaul provider](https://gitbook.dabba.network/earning-dbt/backhaul-provider.md)
+- [Hardware manufacturer](https://gitbook.dabba.network/earning-dbt/hardware-manufacturer.md): Hotspots that power the network
+- [Staking](https://gitbook.dabba.network/staking.md)
+- [DBT Utility](https://gitbook.dabba.network/dbt-utility.md)
+- [Onchain data](https://gitbook.dabba.network/onchain-data.md)
+- [NFTs](https://gitbook.dabba.network/onchain-data/nfts.md): Core NFTs on the Dabba network
+- [Subscriber revenue](https://gitbook.dabba.network/onchain-data/subscriber-revenue.md): How Dabba network reports revenue onchain
+- [Bandwidth](https://gitbook.dabba.network/onchain-data/bandwidth.md): How Dabba network bandwidth data is stored on chain
+- [Network use cases](https://gitbook.dabba.network/network-use-cases.md)
+- [Community Townhall](https://gitbook.dabba.network/community-townhall.md)
+- [Townhall #19](https://gitbook.dabba.network/community-townhall/townhall-19.md)
+- [Townhall #20](https://gitbook.dabba.network/community-townhall/townhall-20.md)
+- [Townhall #21](https://gitbook.dabba.network/community-townhall/townhall-21.md)
+- [Townhall #22](https://gitbook.dabba.network/community-townhall/townhall-22.md)
+- [Townhall #23](https://gitbook.dabba.network/community-townhall/townhall-23.md)
+- [Townhall #24](https://gitbook.dabba.network/community-townhall/townhall-24.md)
+- [Dabba Lite](https://gitbook.dabba.network/hardware/dabba-lite.md): Low cost wifi router
+- [Dabba Foundation](https://gitbook.dabba.network/about/dabba-foundation.md)
+- [Wifi Dabba inc](https://gitbook.dabba.network/about/wifi-dabba-inc.md)
+- [Disclaimer](https://gitbook.dabba.network/join-the-conversation/disclaimer.md)
