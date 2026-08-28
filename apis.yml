@@ -9,6 +9,17 @@ description: 'Dabba (Wifi Dabba) is a Web3-powered decentralized physical infras
   the token flows through a mint, buyback, and burn model. Surfaced as a Multicoin
   Capital portfolio company; profiled here from public developer, documentation, and
   onchain surfaces.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
